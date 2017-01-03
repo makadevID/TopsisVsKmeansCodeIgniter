@@ -1,0 +1,7 @@
+admin
+username: admin
+password: admin
+
+calon mahasiswa
+usernama: no_pendaftaran
+password: 1234
